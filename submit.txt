@@ -1,0 +1,1 @@
+https://global-cities-frontend.vercel.app/
